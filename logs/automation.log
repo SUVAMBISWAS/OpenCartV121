@@ -1,0 +1,654 @@
+d{HH:mm:ss.SSS} [main] INFO  testCases.TC_01_Account_Registration {36} - starting the TC_01_Account_Registration..
+d{HH:mm:ss.SSS} [main] INFO  testCases.TC_01_Account_Registration {36} - clicked my account..
+d{HH:mm:ss.SSS} [main] INFO  testCases.TC_01_Account_Registration {36} - clicked on register account..
+d{HH:mm:ss.SSS} [main] INFO  testCases.TC_01_Account_Registration {36} - setting all the details of user..
+d{HH:mm:ss.SSS} [main] INFO  testCases.TC_01_Account_Registration {36} - validating expected message..
+11:28:52.682 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:28:52.871 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:28:53.621 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:28:53.632 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:28:55.504 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:32:52.803 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:32:53.022 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:32:53.723 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:32:53.732 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:32:55.788 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:32:55.850 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+11:36:03.676 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:36:03.860 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:36:04.624 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:36:04.639 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:36:06.619 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:36:06.685 [main] ERROR testCases.TC_01_Account_Registration - test failed..
+11:36:06.686 [main] ERROR testCases.TC_01_Account_Registration - debug loggs..
+11:36:06.686 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+11:38:24.825 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:38:25.127 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:38:25.725 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:38:25.732 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:38:27.551 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:38:27.610 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+11:48:30.793 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:48:30.983 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:48:32.921 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:48:32.938 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:48:34.984 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:48:35.042 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+11:48:35.042 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+13:12:50.582 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+13:12:51.024 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+13:12:52.183 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+13:12:52.191 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+13:12:54.262 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+13:12:54.338 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+13:12:54.338 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+13:18:42.858 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+13:18:43.124 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+13:18:44.000 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+13:18:44.015 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+13:18:46.220 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+13:18:46.302 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+13:18:46.302 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+13:26:14.027 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+13:26:14.299 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+13:26:16.021 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+13:26:16.043 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+13:26:18.285 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+13:26:18.342 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+13:26:18.343 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+13:26:59.852 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+13:27:00.066 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+13:27:01.954 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+13:27:01.966 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+13:27:04.185 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+13:27:04.254 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+13:27:04.254 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:51:51.060 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:51:51.273 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:51:52.739 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:51:52.747 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:51:54.977 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:51:55.033 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:51:55.034 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:53:21.723 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:53:21.951 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:53:22.853 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:53:22.859 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:53:24.291 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:54:05.320 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:54:05.601 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:54:06.820 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:54:06.837 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:54:08.708 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:54:08.762 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:54:08.763 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:57:56.858 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:57:57.167 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:57:59.268 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:57:59.479 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:58:00.241 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:58:00.264 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:58:01.207 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:58:01.210 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:58:03.749 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:58:03.814 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:58:03.815 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:58:04.948 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:58:05.009 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:58:05.009 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:58:26.447 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:58:26.631 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:58:29.512 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:58:29.516 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:58:31.594 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:58:31.645 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:58:31.645 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:59:45.419 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:59:45.615 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:59:46.717 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:59:46.730 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:59:48.802 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:59:48.883 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:59:48.884 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:00:22.465 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:00:22.766 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:00:22.915 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:00:23.149 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:00:24.418 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:00:24.699 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:00:25.185 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:00:25.197 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:00:26.146 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:00:26.150 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:00:27.076 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:00:27.079 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:00:29.696 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:00:29.778 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:00:29.778 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:00:30.781 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:00:30.846 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:00:30.846 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:00:31.042 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:00:31.128 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:00:31.128 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:18:07.509 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:18:07.550 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:18:29.986 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:18:30.158 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:18:35.395 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:18:35.404 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:18:37.435 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:18:37.492 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:18:37.493 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:19:42.565 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:19:42.857 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:19:44.446 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:19:44.455 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:19:46.003 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:19:46.397 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:19:46.809 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:19:46.904 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:19:46.904 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:19:47.589 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:19:47.816 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:19:48.072 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:19:48.075 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:19:49.301 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:19:49.303 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:19:53.271 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:19:53.371 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:19:53.371 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:19:53.666 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:19:53.811 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:19:53.812 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:20:15.573 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:20:16.109 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:20:16.759 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:20:17.294 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:20:17.557 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:20:17.565 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:20:18.909 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:20:18.915 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:20:20.484 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:20:20.815 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:20:22.108 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:20:22.112 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:20:24.265 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:20:24.491 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:20:24.574 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:20:24.574 [TestNG-tests-3] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:20:24.605 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:20:24.671 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:20:24.671 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:20:24.788 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:20:24.789 [TestNG-tests-2] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+20:13:19.421 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+20:13:19.744 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+20:13:20.217 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+20:13:20.545 [main] INFO  testCases.TC_02_Login_Test - entered username..
+20:13:20.718 [main] INFO  testCases.TC_02_Login_Test - entered password..
+20:13:21.798 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+20:13:21.798 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+21:31:45.090 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Master.xml
+
+21:31:58.212 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+21:31:58.437 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+21:31:58.952 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+21:31:59.194 [main] INFO  testCases.TC_02_Login_Test - entered username..
+21:31:59.340 [main] INFO  testCases.TC_02_Login_Test - entered password..
+21:32:00.473 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+21:32:00.486 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+21:32:00.561 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+23:36:55.339 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Master.xml
+
+23:37:09.974 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:37:10.204 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:37:10.808 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:37:13.061 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:37:13.078 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:37:13.187 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:37:13.594 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:37:15.684 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:37:15.701 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:37:15.836 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:37:16.359 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:37:27.895 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:37:28.019 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:37:28.578 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:37:39.678 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:37:39.792 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:37:40.456 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:37:42.340 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:51:08.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Master.xml
+
+23:51:15.720 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:51:15.987 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:51:16.536 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:51:18.689 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:51:18.702 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:51:18.819 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:51:19.231 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:51:21.659 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:51:21.669 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:51:21.856 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:51:22.292 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:51:33.893 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:51:34.023 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:51:34.493 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:51:44.949 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:51:45.076 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:51:45.532 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:51:47.241 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:53:57.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Master.xml
+
+23:54:05.828 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:54:06.082 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:54:06.738 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:54:08.893 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:54:08.906 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:54:09.032 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:54:09.402 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:54:11.883 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:54:11.903 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:54:12.016 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:54:12.697 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:54:23.934 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:54:23.942 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:54:24.058 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:54:24.589 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:54:35.890 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+23:54:35.917 [main] INFO  testCases.TC_03_Login_Logout - start testing TC_03_Login_Logout..
+23:54:36.038 [main] INFO  testCases.TC_03_Login_Logout - clicked my account..
+23:54:36.393 [main] INFO  testCases.TC_03_Login_Logout - clicked login..
+23:54:38.309 [main] INFO  testCases.TC_03_Login_Logout - finished TC_02_Login_Test..
+11:56:13.393 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+11:56:33.813 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:56:34.121 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:56:35.459 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:56:35.470 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:56:37.572 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:56:37.653 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+11:56:37.654 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+11:56:43.693 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+11:56:43.870 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+11:56:44.356 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+11:56:44.592 [main] INFO  testCases.TC_02_Login_Test - entered username..
+11:56:44.737 [main] INFO  testCases.TC_02_Login_Test - entered password..
+11:56:44.865 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+11:56:44.866 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+11:56:45.754 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+11:57:53.013 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+11:58:49.448 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+11:59:58.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+12:00:05.248 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+12:00:05.464 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+12:00:07.038 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+12:00:07.049 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+12:00:09.266 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+12:00:09.344 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+12:00:09.345 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+12:00:13.120 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+12:00:13.299 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+12:00:13.882 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+12:00:14.158 [main] INFO  testCases.TC_02_Login_Test - entered username..
+12:00:14.280 [main] INFO  testCases.TC_02_Login_Test - entered password..
+12:00:14.408 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+12:00:14.408 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+12:00:15.384 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+12:00:36.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+12:01:12.381 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+12:01:23.873 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+12:01:24.102 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+12:01:25.973 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+12:01:25.984 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+12:01:28.184 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+12:01:28.242 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+12:01:28.242 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+12:01:41.354 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+12:01:41.544 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+12:01:42.062 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+12:01:42.297 [main] INFO  testCases.TC_02_Login_Test - entered username..
+12:01:42.457 [main] INFO  testCases.TC_02_Login_Test - entered password..
+12:01:42.586 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+12:01:42.586 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+12:01:43.584 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+13:26:53.688 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+13:29:52.172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+13:32:13.710 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+14:26:01.610 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+14:27:10.834 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+14:27:18.454 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:27:18.648 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:27:19.961 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:27:19.967 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:27:22.502 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:27:22.566 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:27:22.567 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:27:27.551 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+14:27:27.755 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+14:27:28.454 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+14:27:28.652 [main] INFO  testCases.TC_02_Login_Test - entered username..
+14:27:28.787 [main] INFO  testCases.TC_02_Login_Test - entered password..
+14:27:28.920 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+14:27:28.921 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+14:27:29.914 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+14:29:33.328 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+14:29:39.528 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:29:39.725 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:29:41.166 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:29:41.174 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:29:43.585 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:29:43.666 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:29:43.667 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:29:48.256 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+14:29:48.429 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+14:29:48.984 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+14:29:49.204 [main] INFO  testCases.TC_02_Login_Test - entered username..
+14:29:49.355 [main] INFO  testCases.TC_02_Login_Test - entered password..
+14:29:50.731 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+14:29:50.731 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+14:29:50.786 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+14:31:25.342 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+14:31:31.139 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+14:31:31.330 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+14:31:32.520 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+14:31:32.526 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+14:31:35.711 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+14:31:35.774 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+14:31:35.774 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+14:31:39.659 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+14:31:39.917 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+14:31:40.520 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+14:31:40.808 [main] INFO  testCases.TC_02_Login_Test - entered username..
+14:31:40.934 [main] INFO  testCases.TC_02_Login_Test - entered password..
+14:31:42.186 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+14:31:42.186 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+14:31:42.266 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+15:03:09.880 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:03:15.475 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:03:15.694 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:03:16.828 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:03:16.835 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:03:19.164 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:03:19.238 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:03:19.238 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:03:22.824 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:03:23.000 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:03:23.579 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:03:23.796 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:03:23.935 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:03:24.070 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:03:24.071 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:08:34.136 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:08:39.219 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:08:39.552 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:08:40.545 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:08:40.550 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:08:42.800 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:08:42.875 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:08:42.876 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:08:47.050 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:08:47.235 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:08:48.164 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:08:48.369 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:08:48.502 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:08:49.702 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:08:49.702 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:08:49.760 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+15:15:52.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:15:58.880 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:15:59.192 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:16:00.375 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:16:00.390 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:16:02.764 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:16:02.822 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:16:02.823 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:16:08.649 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:16:08.870 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:16:09.508 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:16:09.773 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:16:09.897 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:16:11.308 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:16:11.308 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:16:11.372 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+15:18:04.121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:18:10.170 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:18:10.350 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:18:12.254 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:18:12.267 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:18:15.018 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:18:15.078 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:18:15.079 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:18:20.549 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:18:20.744 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:18:21.444 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:18:21.655 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:18:21.796 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:18:21.921 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:18:21.921 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:19:13.098 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:19:18.984 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:19:19.178 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:19:20.150 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:19:20.165 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:19:22.635 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:19:22.707 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:19:22.707 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:19:27.610 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:19:27.799 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:19:28.389 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:19:28.607 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:19:28.745 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:19:29.957 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:19:29.958 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:20:58.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:21:04.492 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:21:04.672 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:21:05.762 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:21:05.771 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:21:07.982 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:21:08.049 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:21:08.049 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:21:12.786 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:21:12.965 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:21:13.503 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:21:13.701 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:21:13.835 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:21:13.963 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:21:13.963 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:32:02.996 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:32:12.587 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:32:12.913 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:32:14.119 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:32:14.124 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:32:16.572 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:32:16.649 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:32:16.649 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:32:20.311 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:32:20.502 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:32:20.947 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:32:21.160 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:32:21.298 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:32:21.419 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:32:21.421 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:33:16.594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:33:22.028 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:33:22.215 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:33:23.534 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:33:23.544 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:33:25.645 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:33:25.713 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:33:25.714 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:33:29.435 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:33:29.594 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:33:30.461 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:33:30.651 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:33:30.783 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:33:31.611 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:33:31.616 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+15:34:08.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+15:34:14.484 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+15:34:14.698 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+15:34:15.943 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+15:34:15.958 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+15:34:17.973 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+15:34:18.056 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+15:34:18.057 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+15:34:21.859 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+15:34:22.032 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+15:34:22.712 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+15:34:22.920 [main] INFO  testCases.TC_02_Login_Test - entered username..
+15:34:23.046 [main] INFO  testCases.TC_02_Login_Test - entered password..
+15:34:23.192 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+15:34:23.192 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+11:03:40.064 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+11:04:05.777 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:04:06.076 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:04:07.242 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:04:07.249 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:04:09.366 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:04:09.467 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+11:04:09.467 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+11:04:14.023 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+11:04:14.207 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+11:04:14.818 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+11:04:15.028 [main] INFO  testCases.TC_02_Login_Test - entered username..
+11:04:15.168 [main] INFO  testCases.TC_02_Login_Test - entered password..
+11:04:16.279 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+11:04:16.279 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+11:04:16.373 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+11:04:54.697 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\grouping.xml
+
+11:05:02.349 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:05:02.598 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:05:05.108 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:05:05.117 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:05:08.912 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:05:09.025 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+11:05:09.025 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+11:05:14.661 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+11:05:14.895 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+11:05:15.410 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+11:05:15.693 [main] INFO  testCases.TC_02_Login_Test - entered username..
+11:05:15.847 [main] INFO  testCases.TC_02_Login_Test - entered password..
+11:05:15.999 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+11:05:15.999 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+11:05:16.957 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+11:27:31.413 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\CrossBrowserTesting.xml
+
+11:27:40.413 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+11:27:40.672 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked my account..
+11:27:41.758 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+11:27:41.774 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+11:27:43.868 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - validating expected message..
+11:27:43.938 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+11:27:43.939 [TestNG-tests-1] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+22:42:16.976 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Grid.xml
+
+22:45:23.970 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Grid.xml
+
+22:46:00.637 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+22:46:01.628 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+22:46:03.799 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+22:46:03.810 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+22:46:09.874 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+22:46:10.187 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+22:46:10.187 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+22:46:15.157 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+22:46:15.577 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+22:46:16.223 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+22:46:16.798 [main] INFO  testCases.TC_02_Login_Test - entered username..
+22:46:17.014 [main] INFO  testCases.TC_02_Login_Test - entered password..
+22:46:18.446 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+22:46:18.447 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+22:46:19.748 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+22:47:18.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Grid.xml
+
+22:47:28.164 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+22:47:28.794 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+22:47:30.450 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+22:47:30.461 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+22:47:35.300 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+22:47:35.527 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+22:47:35.528 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+22:47:41.171 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+22:47:41.702 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+22:47:42.495 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+22:47:42.930 [main] INFO  testCases.TC_02_Login_Test - entered username..
+22:47:43.257 [main] INFO  testCases.TC_02_Login_Test - entered password..
+22:47:45.056 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+22:47:45.058 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+22:47:45.214 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
+22:52:05.181 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\eclipse-workspace\OpenCartV121\Grid.xml
+
+22:52:29.058 [main] INFO  testCases.TC_01_Account_Registration - starting the TC_01_Account_Registration..
+22:52:30.082 [main] INFO  testCases.TC_01_Account_Registration - clicked my account..
+22:52:33.246 [main] INFO  testCases.TC_01_Account_Registration - clicked on register account..
+22:52:33.252 [main] INFO  testCases.TC_01_Account_Registration - setting all the details of user..
+22:52:37.612 [main] INFO  testCases.TC_01_Account_Registration - validating expected message..
+22:52:37.845 [main] INFO  testCases.TC_01_Account_Registration - Registration successful. Message validated.
+22:52:37.847 [main] INFO  testCases.TC_01_Account_Registration - !!finished the TC_01_Account_Registration..
+22:52:48.806 [main] INFO  testCases.TC_02_Login_Test - start testing TC_02_Login_Test..
+22:52:49.185 [main] INFO  testCases.TC_02_Login_Test - clicked my account..
+22:52:50.109 [main] INFO  testCases.TC_02_Login_Test - clicked login..
+22:52:50.403 [main] INFO  testCases.TC_02_Login_Test - entered username..
+22:52:50.689 [main] INFO  testCases.TC_02_Login_Test - entered password..
+22:52:52.234 [main] INFO  testCases.TC_02_Login_Test - clicked on login btn..
+22:52:52.235 [main] INFO  testCases.TC_02_Login_Test - validating header msg as My Account..
+22:52:52.400 [main] INFO  testCases.TC_02_Login_Test - finished TC_02_Login_Test..
